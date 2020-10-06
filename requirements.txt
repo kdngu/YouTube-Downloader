@@ -1,0 +1,2 @@
+-i https://pypi.org/simple
+pytube==9.6.0
